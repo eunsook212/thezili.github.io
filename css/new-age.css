@@ -290,7 +290,7 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/mom_baby_bg.jpg");
+  background-image: url("../img/mom_baby_bg_4.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -302,10 +302,9 @@ section.cta .cta-content {
 
 section.cta .cta-content h2 {
   font-size: 30px;
-  max-width: 600px;
+  max-width: 450px;
   margin-top: 0;
   margin-bottom: 25px;
-  margin-left: 450px;
   color: white;
 }
 
